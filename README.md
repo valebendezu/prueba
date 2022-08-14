@@ -8,4 +8,4 @@ agrego mas cosas para ver si se agregan
 ver 
 
 ### imagen
-![agrego logo](C:\Users\usuario\Pictures\Saved Pictures)
+![agrego logo](file:///C:/Users/usuario/Pictures/Saved%20Pictures/TITI.jpg)
