@@ -8,4 +8,4 @@ agrego mas cosas para ver si se agregan
 ver 
 
 ### imagen
-![agrego logo](blob:https://web.whatsapp.com/94655d1f-1e39-4501-a296-8f2bafacb2a0)
+![agrego logo](WhatsApp Image 2022-08-13 at 6.44.02 PM.jpeg)
