@@ -17,6 +17,7 @@ ver
 *texto en cursiva*
 ***todo cursiva y negrita***
 
+PIERCINGS PARA UÑAS :nail_care: ARTE EN UÑAS
 
 ## paleta
 color de fondo `#ffffff` color de letra `#E631D6` color de imágenes `#1c1419`
