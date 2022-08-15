@@ -8,4 +8,4 @@ agrego mas cosas para ver si se agregan
 ver 
 
 ### imagen
-![agrego logo](WhatsApp Image 2022-08-13 at 6.44.02 PM.jpeg)
+[![Whats-App-Image-2022-08-13-at-6-44-02-PM.jpg](https://i.postimg.cc/jjsVtzHP/Whats-App-Image-2022-08-13-at-6-44-02-PM.jpg)](https://postimg.cc/0zHXCKHy)
