@@ -6,8 +6,12 @@ agrego mas cosas para ver si se agregan
 
 ## titulos
 ver 
-
-## vpaleta
+## formatear codigo
+'''
+git init 
+git status
+'''
+## paleta
 color de fondo '#ffffff' color de letra 'rgba(230,49,214,255)' color de imágenes '#1c1419'
 
 ### imagen
